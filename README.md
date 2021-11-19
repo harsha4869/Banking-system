@@ -1,2 +1,2 @@
 # Banking-system
-#GRINOVEMBER21 , #TSF , #THE SPARKS FOUNDATION , #TASK 1 Basic-banking-system Basic Banking System ◇ Create a simple dynamic website which has the following specs. ◇ Start with creating a dummy data in database for upto 10 customers. Database options: Mysql, Mongo, Postgres, etc. Customers table will have basic fields such as name, email, curren…
+This a banking system in which we use dummy data and do a transcation between different individual. 
